@@ -1,7 +1,17 @@
 ![Banner Image](https://github.com/maneeshmm/maneeshmm/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png)
 
 # 💫 About Me:
-👋 Hi, I'm Maneesh. I specialize in Supply Chain Management, Procurement, Data Analytics, and Business Intelligence. My expertise spans SAP MM, SAP PM, SRM, Power BI, SQL, Python, and AI-driven forecasting models. I aim to bridge the gap between data-driven insights and business optimization, particularly in supply chain and procurement processes.<br>✅ ETL (Extract, Transform, Load) and Exploratory Data Analysis (EDA)<br>✅ SQL (Joins, CTEs, Window Functions)<br>✅ Python (Data Processing, Automation, and Visualization)<br>✅ Excel (Pivot Tables, Power Query, Macros)<br>✅ Power BI & DAX (Data Visualization and Dashboard Creation)<br>✅ Predictive Modeling & AI (Time Series Forecasting and Demand Planning)<br>✅ SAP MM, SAP PM, SRM (Supply Chain Management, Procurement, Vendor Lifecycle Management)<br>✅ Data Wrangling, Data Cleaning, and Advanced Data Manipulation
+👋 Hey there! I'm Maneesh, a data-driven professional passionate about optimizing supply chain and procurement processes. With a strong background in analytics, automation, and business intelligence, I love transforming raw data into meaningful insights that drive efficiency and growth. My expertise lies in SAP MM, SAP PM, SRM, Power BI, SQL, Python, and predictive modeling. Whether it's streamlining operations, enhancing decision-making, or uncovering hidden patterns, I'm always up for a challenge!
+
+💡 Areas of Expertise:
+- ETL (Extract, Transform, Load) & Exploratory Data Analysis (EDA)
+- SQL (Joins, CTEs, Window Functions)
+- Python (Automation, Data Processing, and Visualization)
+- Excel (Power Query, Pivot Tables, Macros)
+- Power BI & DAX (Interactive Dashboards & Data Storytelling)
+- Predictive Analytics & AI (Forecasting & Demand Planning)
+- SAP MM, SAP PM, SRM (Supply Chain & Procurement Optimization)
+- Data Wrangling, Cleaning & Advanced Data Manipulation
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maneesh-m-m-5a9099147/) 
