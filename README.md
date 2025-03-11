@@ -5,7 +5,7 @@
 
 💡 Areas of Expertise:
 - ETL (Extract, Transform, Load) & Exploratory Data Analysis (EDA)
-- SQL (Joins, CTEs, Window Functions)
+- SQL (Joins, CTEs, Window Functions, Indexing, Performance Tuning, Stored Procedures, Triggers, Query Optimization, Views, Data Modeling, Normalization & Denormalization)
 - Python (Automation, Data Processing, and Visualization)
 - Excel (Power Query, Pivot Tables, Macros)
 - Power BI & DAX (Interactive Dashboards & Data Storytelling)
